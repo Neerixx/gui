@@ -59,7 +59,7 @@
         </dependency>
         <dependency>
             <groupId>team.unnamed.gui</groupId>
-            <artifactId>gui-versions-v1_16_R1</artifactId>
+            <artifactId>gui-versions-v1_16_R3</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
